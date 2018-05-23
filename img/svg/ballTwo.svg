@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 73.9 73.9" style="enable-background:new 0 0 73.9 73.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#250629;}
+</style>
+<g>
+	<polygon class="st0" points="61.3,50.9 50.1,50.9 50.1,45.9 58.4,45.9 63.6,36.9 58.4,28 50.1,28 50.1,23 61.3,23 69.3,36.9 	"/>
+	<polygon class="st0" points="45.7,38.2 41.3,35.7 47.1,25.6 42.2,18.1 36.9,18.1 36.9,13.1 44.8,13.1 53,25.4 	"/>
+	<rect x="43.5" y="57.7" transform="matrix(0.9192 -0.3939 0.3939 0.9192 -21.4899 23.2734)" class="st0" width="5" height="12.5"/>
+	<rect x="59.8" y="47.7" transform="matrix(0.8574 -0.5146 0.5146 0.8574 -18.1327 39.5689)" class="st0" width="5" height="9.6"/>
+	<rect x="57.6" y="18.9" transform="matrix(0.5145 -0.8575 0.8575 0.5145 11.9576 63.8332)" class="st0" width="9.6" height="5"/>
+	<rect x="40.5" y="8.2" transform="matrix(0.4472 -0.8944 0.8944 0.4472 15.8328 47.0154)" class="st0" width="11" height="5"/>
+	<rect x="66.4" y="34.4" class="st0" width="4.9" height="5"/>
+	<path class="st0" d="M44.8,60.8H29l-8.2-12.2l8-14.1h16l8,14.1L44.8,60.8z M31.7,55.8h10.4l5-7.4L42,39.4H31.8l-5.1,8.9L31.7,55.8z
+		"/>
+	<polygon class="st0" points="23.8,50.9 12.5,50.9 4.5,36.9 12.5,23 23.8,23 23.8,28 15.4,28 10.3,36.9 15.4,45.9 23.8,45.9 	"/>
+	<polygon class="st0" points="28.2,38.2 20.9,25.4 29,13.1 36.9,13.1 36.9,18.1 31.7,18.1 26.8,25.6 32.5,35.7 	"/>
+	<path class="st0" d="M36.9,73.9C16.6,73.9,0,57.3,0,36.9C0,16.6,16.6,0,36.9,0c20.4,0,36.9,16.6,36.9,36.9
+		C73.9,57.3,57.3,73.9,36.9,73.9z M36.9,5C19.3,5,5,19.3,5,36.9s14.3,31.9,31.9,31.9s31.9-14.3,31.9-31.9S54.5,5,36.9,5z"/>
+	<rect x="21.7" y="61.5" transform="matrix(0.3938 -0.9192 0.9192 0.3938 -41.8963 64.4518)" class="st0" width="12.5" height="5"/>
+	<rect x="6.7" y="50" transform="matrix(0.5145 -0.8575 0.8575 0.5145 -39.4357 35.3715)" class="st0" width="9.6" height="5"/>
+	<rect x="9" y="16.6" transform="matrix(0.8574 -0.5146 0.5146 0.8574 -9.3477 8.9716)" class="st0" width="5" height="9.6"/>
+	<rect x="25.4" y="5.2" transform="matrix(0.8944 -0.4472 0.4472 0.8944 -1.8376 13.6125)" class="st0" width="5" height="11"/>
+	<rect x="2.5" y="34.4" class="st0" width="4.9" height="5"/>
+</g>
+</svg>
